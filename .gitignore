@@ -27,3 +27,5 @@ _docker_data
 .cache
 
 mvnw*
+
+.DS_Store
